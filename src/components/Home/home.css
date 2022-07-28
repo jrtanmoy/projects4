@@ -1,0 +1,17 @@
+.login_img {
+  max-width: 88%;
+}
+
+.svg svg {
+  fill: orange;
+}
+
+.svg {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  transform: translateY(-10px);
+}
+form div {
+  width: 100%;
+}

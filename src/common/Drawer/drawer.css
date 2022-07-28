@@ -1,0 +1,29 @@
+.drawer div {
+  background-color: #0b1b30;
+  color: white;
+  overflow: visible !important;
+}
+
+.drawer svg {
+  fill: white;
+}
+.drawer_icon {
+  position: absolute;
+  right: -19px;
+  background: orange;
+  /* border-radius: 50%; */
+}
+
+.drawer div button {
+  position: absolute;
+  right: -19px;
+  background: orange;
+}
+
+.drawer div button:hover {
+  background: orange;
+}
+
+.modification svg {
+  fill: orange;
+}

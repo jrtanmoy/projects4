@@ -1,0 +1,21 @@
+.input div::before {
+  border-bottom: none !important;
+}
+
+.input div::before:hover {
+  border-bottom: none !important;
+}
+
+.input div {
+  border-radius: 10px !important;
+  background: rgba(23, 54, 95, 0.04) !important;
+}
+.input div :hover {
+  border-radius: 10px !important;
+
+  background: rgba(23, 54, 95, 0.06) !important;
+}
+
+.input div::after {
+  border-bottom: none !important;
+}
